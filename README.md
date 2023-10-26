@@ -3,7 +3,7 @@ In this section, we will compare the annual prices of ULSP (Ultra-low sulfur pet
 
 The tornado bar graph is an excellent tool for visualizing data in a way that allows for easy comparisons between different categories. In our case, we'll be visualizing a two-side bar graph, which is a visually striking way to showcase and compare prices of petrol and diesel in the UK
 
-To render tornado chart, initialize the [SfCartesianChart[(https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.SfCartesianChart.html?tabs=tabid-1) and switch the chart X and Y axes by using the *IsTransposed* property as true.
+To render tornado chart, initialize the [SfCartesianChart](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.SfCartesianChart.html?tabs=tabid-1) and switch the chart X and Y axes by using the *IsTransposed* property as true.
 
 <img width="938" alt="image" src="https://github.com/SyncfusionExamples/Creating-a-Tornado-Chart-for-Comparison-of-Petrol-and-Diesel-Prices-in-the-UK/assets/102796134/6272829e-aa66-43dc-b85c-9b057c3eb50c">
 
