@@ -5,7 +5,8 @@ The tornado bar graph is an excellent tool for visualizing data in a way that al
 
 To render tornado chart, initialize the [SfCartesianChart[(https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.SfCartesianChart.html?tabs=tabid-1) and switch the chart X and Y axes by using the *IsTransposed* property as true.
 
-![image](https://github.com/SyncfusionExamples/Creating-a-Tornado-Chart-for-Comparison-of-Petrol-and-Diesel-Prices-in-the-UK/assets/102796134/f3d16250-26d6-4b61-b144-9c20a1616d32)
+<img width="938" alt="image" src="https://github.com/SyncfusionExamples/Creating-a-Tornado-Chart-for-Comparison-of-Petrol-and-Diesel-Prices-in-the-UK/assets/102796134/6272829e-aa66-43dc-b85c-9b057c3eb50c">
+
 
 
 
